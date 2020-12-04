@@ -1,0 +1,3 @@
+*.dvi
+render.sh
+*.toc
