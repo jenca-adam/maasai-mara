@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/Arch Linux) (preloaded format=xelatex 2020.10.13)  5 DEC 2020 20:23
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/Arch Linux) (preloaded format=xelatex 2020.10.13)  5 DEC 2020 21:06
 entering extended mode
  restricted \write18 enabled.
  Source specials enabled.
@@ -578,27 +578,53 @@ File: NT.png Graphic file (type bmp)
 <NT.png>
 File: kori-masai.jpg Graphic file (type bmp)
 <kori-masai.jpg>
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--161
+
+ []
+
 File: LC.png Graphic file (type bmp)
 <LC.png>
 File: caplicka-masai.jpg Graphic file (type bmp)
 <caplicka-masai.jpg>
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--166
+
+ []
+
+[9]
 File: VU.png Graphic file (type bmp)
 <VU.png>
- [9]
 File: hadozrut-masai.jpg Graphic file (type bmp)
 <hadozrut-masai.jpg>
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--170
+
+ []
+
 File: LC.png Graphic file (type bmp)
 <LC.png>
 
-Overfull \hbox (24.64787pt too wide) in paragraph at lines 167--168
+Overfull \hbox (24.64787pt too wide) in paragraph at lines 170--171
 [][]\TU/lmr/m/n/10 Perlavec masajský$\OT1/cmr/m/n/10 ($\TU/lmtt/m/it/10 Trachyp
 honus darnaudii usambiro$\OT1/cmr/m/n/10 )$[][]\TU/lmr/bx/n/10 Najmenej ohro-
  []
 
 File: usambiro-masai.jpg Graphic file (type bmp)
 <usambiro-masai.jpg>
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--175
+
+ []
+
+
+Overfull \hbox (20.12602pt too wide) in paragraph at lines 185--186
+[][]\TU/lmr/m/n/10 Martin Karniš, Skutočná Afrika je v Keni, Svet zvierat č.09,
+ August/September
+ []
+
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 181.
+(Font)              <9> on input line 187.
 The property list \polyglossia@langsetup contains the pairs (without outer
 braces):
 >  {latex/script}  =>  {latin}
@@ -633,16 +659,16 @@ braces):
 >  {slovak/babelname}  =>  {slovak}
 >  {slovak/localnumeral}  =>  {polyglossia@C@localnumeral}
 >  {slovak/Localnumeral}  =>  {polyglossia@C@localnumeral}.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 182.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 188.
 [10]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 182.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 188.
  (./masai_mara.aux
 LaTeX Info: Redefining \rmfamily on input line 20.
 LaTeX Info: Redefining \sffamily on input line 20.
 LaTeX Info: Redefining \ttfamily on input line 20.
 )
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 182.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 182.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 188.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 188.
 Package rerunfilecheck Info: File `masai_mara.out' has not changed.
 (rerunfilecheck)             Checksum: 4F8927BE4821AB7E20D96606298296CA;727.
  ) 
